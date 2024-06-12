@@ -46,7 +46,7 @@ The code is organized into the following sections:
 ## Results
 | Metric              | Score     |
 |---------------------|-----------|
-| Accuracy            | 0.8222    |
+| Accuracy            | 82.22 %    |
 | Precision           | 0.9562    |
 | Recall              | 0.7628    |
 | F1-score            | 0.8745    |
@@ -54,8 +54,4 @@ The code is organized into the following sections:
 | PR AUC score        | 0.1875    |
 | Kaggle Submission   | 0.814     |
 
-## Authors
-- Fatih Emir Güler
-- Mert Erbak 
-- Mohammed Ammar Salahie
 
