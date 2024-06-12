@@ -47,11 +47,10 @@ The code is organized into the following sections:
 | Metric              | Score     |
 |---------------------|-----------|
 | Accuracy            | 82.22 %    |
-| Precision           | 0.9562    |
-| Recall              | 0.7628    |
-| F1-score            | 0.8745    |
-| ROC AUC score       | 0.8769    |
-| PR AUC score        | 0.1875    |
-| Kaggle Submission   | 0.814     |
+| Precision           | 95.62 %    |
+| Recall              | 76.28 %    |
+| F1-score            | 87.45 %   |
+| ROC AUC score       | 87.69 %   |
+| Kaggle Submission   | 81.4 %    |
 
 
