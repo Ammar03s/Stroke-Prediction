@@ -30,7 +30,7 @@ The following libraries are required to run the code in this repository:
 - Lightgbm
 - Catboost
 
-## Code_Structure
+## Code Structure
 The code is organized into the following sections:
 1. **Data Preprocessing**: In this step, the code reads and combines the training and testing data, handles missing values, encodes categorical variables, and adds additional features.
 2. **Feature Selection**: The importance of features is determined using a Random Forest Classifier. The code selects the top-k features for further analysis.
