@@ -52,4 +52,4 @@ The code is organized into the following sections:
 | ROC AUC score       | 87.69 %   |
 | Kaggle Submission   | 81.4 %    |
 
-**This project was completed with Fatih emir guler and Mert Ebrak.**
+**This project was completed with Fatih Emir Güler and Mert Ebrak.**
