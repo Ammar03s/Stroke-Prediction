@@ -45,11 +45,12 @@ The code is organized into the following sections:
 ## Results
 | Metric              | Score     |
 |---------------------|-----------|
-| Accuracy            | 0.822    |
-| Precision           | 0.956     |
-| Recall              | 0.76     |
-| F1-score            | 0.874    |
-| ROC AUC score       | 0.876   |
+| Accuracy            | 0.8222   |
+| Precision           | 0.9562   |
+| Recall              | 0.7628   |
+| F1-score            | 0.8745   |
+| ROC AUC score       | 0.8769   |
+| PR AUC score        |	0.1875   |
 | Kaggle Submission   | 0.814    |
 
 **This project was completed by Ammar Salahie, Fatih Emir Güler, and Mert Ebrak.**
